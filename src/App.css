@@ -47,6 +47,7 @@ option {
 }
 .boton-play,
 .ddl-dificultad {
+  opacity: 0;
   animation-name: aparecer;
   animation-duration: 0.5s;
   animation-delay: 1s;
