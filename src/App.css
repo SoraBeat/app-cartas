@@ -57,33 +57,12 @@ option {
   font-size: 28px;
   padding: 10px 19px;
   text-shadow: 0px -1px 5px rgba(0, 0, 0, 1);
-  -webkit-border-radius: 21.08108108108108px;
-  -moz-border-radius: 21.08108108108108px;
-  border-radius: 21.08108108108108px;
-  background: rgb(0, 239, 0);
-  background: -moz-linear-gradient(
+  border-radius: 21px;
+  background: linear-gradient(
     90deg,
     rgb(0, 239, 0) 100%,
     rgb(255, 20, 20) 58%
   );
-  background: -webkit-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
-  background: -o-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
-  background: -ms-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
-  background: linear-gradient(0deg, rgb(0, 239, 0) 100%, rgb(255, 20, 20) 58%);
-  -webkit-box-shadow: 0px 2px 11px rgba(50, 50, 50, 0.75);
-  -moz-box-shadow: 0px 2px 11px rgba(50, 50, 50, 0.75);
   box-shadow: 0px 2px 11px rgba(50, 50, 50, 0.75);
   font-family: 'Arvo', serif;
 }
@@ -189,8 +168,6 @@ option {
   background-color: white;
   border-radius: 10px;
   box-shadow: 1px 1px 11px 0px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 1px 1px 11px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 1px 1px 11px 0px rgba(0, 0, 0, 0.75);
   padding: 0 20px;
   display: flex;
   flex-direction: column;
@@ -209,33 +186,8 @@ option {
   font-size: 28px;
   padding: 10px 19px;
   text-shadow: 0px -1px 5px rgba(0, 0, 0, 1);
-  -webkit-border-radius: 21.08108108108108px;
-  -moz-border-radius: 21.08108108108108px;
-  border-radius: 21.08108108108108px;
-  background: rgb(0, 239, 0);
-  background: -moz-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
-  background: -webkit-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
-  background: -o-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
-  background: -ms-linear-gradient(
-    90deg,
-    rgb(0, 239, 0) 100%,
-    rgb(255, 20, 20) 58%
-  );
+  border-radius: 21px;
   background: linear-gradient(0deg, rgb(0, 239, 0) 100%, rgb(255, 20, 20) 58%);
-  -webkit-box-shadow: 0px 2px 11px rgba(50, 50, 50, 0.75);
-  -moz-box-shadow: 0px 2px 11px rgba(50, 50, 50, 0.75);
   box-shadow: 0px 2px 11px rgba(50, 50, 50, 0.75);
   font-family: 'Arvo', serif;
 }
