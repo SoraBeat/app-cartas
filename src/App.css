@@ -50,7 +50,6 @@ option {
   animation-name: aparecer;
   animation-duration: 0.5s;
   animation-delay: 1s;
-  opacity: 0;
   animation-fill-mode: forwards;
   margin-top: 20px;
   color: rgb(255, 255, 255);
@@ -68,10 +67,10 @@ option {
 }
 @keyframes aparecer {
   from {
-    opacity: 0%;
+    opacity: 0;
   }
   to {
-    opacity: 100%;
+    opacity:100;
   }
 }
 .contenedor-juego {
